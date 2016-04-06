@@ -4,12 +4,12 @@ This list demonstrates *some* of the work that I enjoy doing in my free time.  T
 
 ## Commercial Public Releases
 Some projects that I have released commercially.
-#### [Great White Flight] ()
+#### [Great White Flight] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/great_white_flight)
 Language - C#
 
 Created and released in a little over a month.  You play as a shark trying to eat things and dodge bombs.  Learning to make a 3D game was quite the learning curve when trying to squeeze development time into a month and a half.
 
-#### [Math Sushi] ()
+#### [Math Sushi] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/math_sushi/com/maskedpixel)
 Language - Actionscript 
 
 My first commercial release.  Licensed to [Math Nook](http://www.mathnook.com/) and playable here: http://www.mathnook.com/math/math-sushi.html
@@ -49,13 +49,13 @@ I originally intended to complete a year of monthly games but due to work commit
 
 ## No Source
 These are some projects that I have completed and lost the source to that were completed on or before 2012.
-* [Dino Wrangler - Ludum Dare #23]() - Actionscript 3
+* [Dino Wrangler - Ludum Dare #23](https://github.com/IkonOne/CV/blob/master/no_source/LudumDare23.swf?raw=true) - Actionscript 3
 * [Trenches - Ludum Dare #21](http://ludumdare.com/compo/ludum-dare-21/?action=preview&uid=4973) - Actionscript 3
 * [Fast Castle](http://www.kongregate.com/games/MaskedPixel/fast-castle) - Actionscript 3
-* [Flocking Simulation]() - Actionscript 3
-* [Grav]() - Actionscript 3
+* [Flocking Simulation](https://github.com/IkonOne/CV/blob/master/no_source/Flocking.swf?raw=true) - Actionscript 3
+* [Grav](https://github.com/IkonOne/CV/blob/master/no_source/Grav.swf?raw=true) - Actionscript 3
 
-#### [Zombie Legend]()
+#### [Zombie Legend](https://github.com/IkonOne/CV/blob/master/no_source/ZombieLegend.swf?raw=true)
 Language - Actionscript 3
 
 This one was is actually kind of tragic that I lost the source code for it.  There are quite a few technologies that I implemented from scratch for it that were very fun.  The highlights would be [Navigation Meshes](http://www.gamedev.net/page/resources/_/technical/artificial-intelligence/generating-2d-navmeshes-r3393) and several steering behaviours for the zombies(cohesion, separation, alignment, following and obstacle avoidance).  The pseudo 3d was quite tricky for me at the time as well, and I even included some hacky optimizations such as backface culling and hidden surface removal.
