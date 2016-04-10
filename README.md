@@ -2,6 +2,13 @@
 
 This list demonstrates *some* of the work that I enjoy doing in my free time.  The languages that I tend to work with for my hobby projects are Haxe, C#(Unity3D) and before I discovered Haxe, Actionscript 3.  These languages allow a single programmer to quickly complete a project and target multiple platforms with little effort.
 
+## Table of Contents
+* [Commercial Public Releases](#commercial-public-releases)
+* [Libraries](#libraries)
+* [FOSS Contributions](#foss-contributions)
+* [Prototypes](#prototypes)
+* [No Source](#no-source)
+
 ##Commercial Public Releases
 Some projects that I have released commercially.
 #### [Great White Flight] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/great_white_flight)
