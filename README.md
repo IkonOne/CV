@@ -2,7 +2,7 @@
 
 This list demonstrates *some* of the work that I enjoy doing in my free time.  The languages that I tend to work with for my hobby projects are Haxe, C#(Unity3D) and before I discovered Haxe, Actionscript 3.  These languages allow a single programmer to quickly complete a project and target multiple platforms with little effort.
 
-## Commercial Public Releases
+##Commercial Public Releases
 Some projects that I have released commercially.
 #### [Great White Flight] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/great_white_flight)
 Language - C#
@@ -10,7 +10,7 @@ Language - C#
 Created and released in a little over a month.  You play as a shark trying to eat things and dodge bombs.  Learning to make a 3D game was quite the learning curve when trying to squeeze development time into a month and a half.
 
 #### [Math Sushi] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/math_sushi/com/maskedpixel)
-Language - Actionscript 
+Language - Haxe 
 
 My first commercial release.  Licensed to [Math Nook](http://www.mathnook.com/) and playable here: http://www.mathnook.com/math/math-sushi.html
 
@@ -23,13 +23,13 @@ A collection of utility classes to aid in development and soon to be scripts for
 #### [OgmoPunk](https://github.com/asaia/StarlingPunk/tree/master/lib/com/saia/starlingPunk/extensions/ogmopunk)
 Language - Actionscript
 
-[OgmoPunk](http://www.andysaia.com/radicalpropositions/starlingpunk-ver-1-1-tilemap-support/) was created by me for [Flashpunk](https://github.com/useflashpunk/FlashPunk) more than 5 years ago.  It is a simple api that allows you to use levels created using [Ogmo Editor](http://www.ogmoeditor.com/) and will, using reflection, create all classes that are specified in the editor.  It drastically reduced the amount of code needed to completely load a level from the editor.  The code in the StarlingPunk version of the library is virtually identical.
+[OgmoPunk](http://www.andysaia.com/radicalpropositions/starlingpunk-ver-1-1-tilemap-support/) was created by me for [Flashpunk](https://github.com/useflashpunk/FlashPunk) around mid-year 2012.  It is a simple api that allows you to use levels created using [Ogmo Editor](http://www.ogmoeditor.com/) and will, using reflection, create all classes that are specified in the editor.  It drastically reduced the amount of code needed to completely load a level from the editor.  The code in the StarlingPunk version of the library is virtually identical.
 
 ## FOSS contributions
 #### [HaxePunk](https://github.com/HaxePunk/HaxePunk/commits/master?author=IkonOne)
 Language - Haxe
 
-A FOSS game engine written in Haxe that I used for several years that I made several commits to.  My handle at the time was MaskedPixel.
+A FOSS game engine written in Haxe that I used for several years that I made several commits to.  My handle at the time was MaskedPixel.  A highlight of my contributions would be the last set made on May 27, 2013.  This set of commits fixed a major text performance issue on mobile targets(and consequently all native targets).
 
 ## Prototypes
 Cowboy coding at it's finest, here are some prototypes that demonstrate what I can accomplish with short time restrictions and no code quality.
