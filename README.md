@@ -1,4 +1,4 @@
-#CV
+# CV
 
 This list demonstrates *some* of the work that I enjoy doing in my free time.  The languages that I tend to work with for my hobby projects are Haxe, C#(Unity3D) and before I discovered Haxe, Actionscript 3.  These languages allow a single programmer to quickly complete a project and target multiple platforms with little effort.
 
@@ -9,14 +9,15 @@ This list demonstrates *some* of the work that I enjoy doing in my free time.  T
 * [Prototypes](#prototypes)
 * [No Source](#no-source)
 
-##Commercial Public Releases
+## Commercial Public Releases
+
 Some projects that I have released commercially.
-#### [Great White Flight] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/great_white_flight)
+#### [Great White Flight](https://github.com/IkonOne/CV/tree/master/commercial_public_releases/great_white_flight)
 Language - C#
 
 Created and released in a little over a month.  You play as a shark trying to eat things and dodge bombs.  Learning to make a 3D game was quite the learning curve when trying to squeeze development time into a month and a half.
 
-#### [Math Sushi] (https://github.com/IkonOne/CV/tree/master/commercial_public_releases/math_sushi/com/maskedpixel)
+#### [Math Sushi](https://github.com/IkonOne/CV/tree/master/commercial_public_releases/math_sushi/com/maskedpixel)
 Language - Haxe 
 
 My first commercial release.  Licensed to [Math Nook](http://www.mathnook.com/) and playable here: http://www.mathnook.com/math/math-sushi.html
